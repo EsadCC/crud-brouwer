@@ -1,6 +1,6 @@
 <?php
     // functie: update fiets
-    // auteur: Vul hier je naam in
+    // auteur: Esad
 
     require_once('functions.php');
 
@@ -56,4 +56,5 @@
     } else {
         echo "Geen id opgegeven<br>";
     }
+
 ?>
